@@ -1,6 +1,6 @@
-Precal Math Library Guide
+PRECaL User Guide
 
-This guide will help you set up and use the Precal Math Library, which includes examples and a sandbox for experimenting with math functions.
+This guide will help you set up and use "Python Routines Enhancing Calculations and Logic", or PRECaL, which includes examples and a sandbox for experimenting with math functions.
 
 Step 1: Extract the ZIP File
 1. Locate the .zip file you downloaded.
@@ -50,4 +50,4 @@ Step 7: Debugging and Troubleshooting
 2. Libraries Not Installed: Ensure the necessary libraries (e.g., matplotlib, numpy, sympy) are installed.
 3. File Not Found: Confirm all files are in the same folder.
 
-Happy coding! Enjoy experimenting with the Precal Math Library!
+Happy coding! Enjoy experimenting with PRECaL!
